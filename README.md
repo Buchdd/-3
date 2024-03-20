@@ -1,6 +1,9 @@
 sudo apt update
+
 sudo apt install git
+
 git --version
+
 git clone https://github.com/Buchdd/AdminLR3.git
 
 Для установки Docker на Ubuntu следуйте этим шагам:
